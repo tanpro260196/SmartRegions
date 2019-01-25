@@ -1,0 +1,7 @@
+E:\OneDrive\Documents\GitHub\SmartRegions\obj\Release\SmartRegions.csprojAssemblyReference.cache
+E:\OneDrive\Documents\GitHub\SmartRegions\obj\Release\SmartRegions.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\GitHub\SmartRegions\obj\Release\SmartRegions.dll
+E:\OneDrive\Documents\GitHub\SmartRegions\obj\Release\SmartRegions.pdb
+C:\Users\Zak\Desktop\build\SmartRegions.dll
+C:\Users\Zak\Desktop\build\SmartRegions.pdb
+E:\OneDrive\Documents\GitHub\SmartRegions\obj\Release\SmartRegions.csproj.CopyComplete
